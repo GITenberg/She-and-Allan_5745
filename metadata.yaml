@@ -1,0 +1,44 @@
+_repo: She-and-Allan_5745
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haggard, H. Rider (Henry Rider)
+    aliases:
+    - Haggard, Henry Rider
+    - Haggard, Rider
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '365'
+    url: http://www.gutenberg.org/2009/agents/365
+    wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
+description: "She and Allan is a novel by H. Rider Haggard, first published in 1921.\
+  \ It brought together his two most popular characters, Ayesha from She (to which\
+  \ it serves as a prequel), and Allan Quatermain from King Solomon's Mines.\nIts\
+  \ significance was recognized by its republication by the Newcastle Publishing Company\
+  \ as the sixth volume of the celebrated Newcastle Forgotten Fantasy Library series\
+  \ in September 1975.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Adventure
+gutenberg_issued: '2006-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5745'
+  wikidata: Q11681425
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Ayesha (Fictitious character : Haggard) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Quatermain, Allan (Fictitious character) -- Fiction'
+- !lcsh 'Africa -- Fiction'
+- !lcsh 'Hunting guides -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Immortalism -- Fiction'
+- GITenberg
+title: She and Allan
+url: http://www.gutenberg.org/ebooks/5745
+wikipedia:
+- https://en.wikipedia.org/wiki/She_and_Allan
+- https://es.wikipedia.org/wiki/Ella_y_Allan
