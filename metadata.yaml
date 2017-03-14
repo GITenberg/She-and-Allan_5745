@@ -1,5 +1,8 @@
 _repo: She-and-Allan_5745
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Haggard, H. Rider (Henry Rider)
@@ -17,6 +20,8 @@ description: "She and Allan is a novel by H. Rider Haggard, first published in 1
   \ significance was recognized by its republication by the Newcastle Publishing Company\
   \ as the sixth volume of the celebrated Newcastle Forgotten Fantasy Library series\
   \ in September 1975.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5745#She-and-Allan
 gutenberg_bookshelf: Adventure
 gutenberg_issued: '2006-04-22'
 gutenberg_type: Text
